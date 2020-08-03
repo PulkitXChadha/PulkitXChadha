@@ -4,12 +4,7 @@
 My name is Pulkit Chadha I'm a Multi Solution Architect and a Sr Soultions Consultant working at Adobe. You can find me on on [![LinkedIn][3.2]][3].
 
 ## Programming Languages
-<img src = 'images/python2.png' height='30'/>
-<img src = 'images/html.svg' width='30'/>
-<img src = 'images/css.svg' width='30'/>
-<img src = 'images/js.svg' width='30'/> 
- <img src = 'images/sql.svg' width='30'/>
- <img src = 'images/git.svg' width='30'/>
+<img src = 'images/python2.png' height='30'/> <img src = 'images/html.svg' width='30'/> <img src = 'images/js.svg' width='30'/> <img src = 'images/sql.svg' width='30'/> <img src = 'images/git.svg' width='30'/>
  
  
  
