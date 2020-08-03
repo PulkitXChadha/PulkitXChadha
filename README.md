@@ -3,8 +3,9 @@
 
 My name is Pulkit Chadha I'm a Multi Solution Architect and a Sr Soultions Consultant working at Adobe. You can find me on on [![LinkedIn][3.2]][3].
 
-## Programming Languages
-<img src = 'images/python2.png' height='30'/> <img src = 'images/html.svg' width='30'/> <img src = 'images/js.svg' width='30'/> <img src = 'images/sql.svg' width='30'/> <img src = 'images/git.svg' width='30'/>
+## What to I work with
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
  
  
  
