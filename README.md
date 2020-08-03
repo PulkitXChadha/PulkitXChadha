@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there <img src="wave.gif" width="30px">
+
+
+My name is Pulkit Chadha I'm a Multi Solution Architect and a Sr Soultions Consultant working at Adobe. You can find me on on [![LinkedIn][3.2]][3].
+
 
 ## &#x1f4c8; GitHub Stats
 
@@ -36,8 +40,8 @@
 <!-- links to your social media accounts -->
 
 [1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+[2]: https://github.com/PulkitXChadha
+[3]: https://www.linkedin.com/in/pulkitchadha/
 
 
 <!-- Resources -->
