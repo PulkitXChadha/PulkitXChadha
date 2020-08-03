@@ -1,4 +1,4 @@
-### Hi there <img src="wave.gif" width="30px">
+## Hi there <img src="wave.gif" width="30px">
 
 
 My name is Pulkit Chadha I'm a Multi Solution Architect and a Sr Soultions Consultant working at Adobe. You can find me on on [![LinkedIn][3.2]][3].
@@ -45,6 +45,8 @@ My name is Pulkit Chadha I'm a Multi Solution Architect and a Sr Soultions Consu
 
 [2]: https://github.com/PulkitXChadha
 [3]: https://www.linkedin.com/in/pulkitchadha/
+
+
 
 ![Profile views](https://gpvc.arturio.dev/PulkitXChadha?v=3)
 
