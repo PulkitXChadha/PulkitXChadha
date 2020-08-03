@@ -43,10 +43,12 @@ My name is Pulkit Chadha I'm a Multi Solution Architect and a Sr Soultions Consu
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
 [2]: https://github.com/PulkitXChadha
 [3]: https://www.linkedin.com/in/pulkitchadha/
 
+<p  align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=PulkitXChadha.PulkitXChadha" alt="visitor badge"/>       
+</p>
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
