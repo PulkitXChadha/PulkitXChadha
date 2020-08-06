@@ -1,7 +1,7 @@
 ## Hi there!! <img src="wave.gif" width="30px">
 
 
-My name is Pulkit Chadha I'm a Multi Solution Architect and a Sr Soultions Consultant working at Adobe. You can find me on [![LinkedIn][3.2]][3].
+My name is Pulkit Chadha I'm a Multi Solution Architect and a Sr Soultions Consultant working at Adobe. You can find me on LinkedIn[![LinkedIn][3.2]][3].
 
 ## Tools
 <p align="center">
