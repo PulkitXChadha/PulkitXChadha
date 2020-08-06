@@ -23,8 +23,17 @@ My name is Pulkit Chadha I'm a Multi Solution Architect and a Sr Soultions Consu
 </a>
 
 
-<a href="https://github.com/PulkitXChadha/go-project-blueprint">
+<a href="https://github.com/PulkitXChadha/serverless-stack-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PulkitXChadha&repo=serverless-stack-api&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/PulkitXChadha/serverless-stack-client">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PulkitXChadha&repo=serverless-stack-client&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/PulkitXChadha/basic-burger-builder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PulkitXChadha&repo=basic-burger-builder&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
