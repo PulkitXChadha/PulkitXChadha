@@ -1,12 +1,11 @@
 ## Hi There!! <img src="https://github.com/PulkitXChadha/PulkitXChadha/blob/master/wave.gif" width="30px">
 
-
 My name is Pulkit Chadha I'm a Sr Soultions Consultant and Multi Solution Architect working at Adobe. 
 
 ## Connect with me on these platforms
 
 <a href="https://www.linkedin.com/in/pulkitchadha//"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/pulkitchadha"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>
-  
+<div></div>
 
 ## Featured Blogs I have Authored
 
@@ -14,11 +13,11 @@ My name is Pulkit Chadha I'm a Sr Soultions Consultant and Multi Solution Archit
 
 [Adobe Tech Blog - Data-Driven Marketing Campaigns using Adobe Experience Platform’s Unified Profile: Integrating Adobe Campaign Classic](https://medium.com/adobetech/data-driven-marketing-campaigns-using-adobe-experience-platforms-unified-profile-in-adobe-campaign-9d9a97e183c4)
 
+
 ## Tools I Use
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
- 
- 
+
  
 ## &#x1f4c8; GitHub Stats
 
