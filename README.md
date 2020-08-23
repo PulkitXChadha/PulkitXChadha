@@ -5,7 +5,7 @@ My name is Pulkit Chadha I'm a Sr Soultions Consultant and Multi Solution Archit
 
 ## Featured Blogs I have Authored
 <p>
- https://medium.com/adobetech/adobe-campaign-classic-integration-with-journey-orchestration-ae577653281
+ [Adobe Tech Blog- Adobe Campaign Classic Integration with Journey Orchestration](https://medium.com/adobetech/adobe-campaign-classic-integration-with-journey-orchestration-ae577653281)
  https://medium.com/adobetech/data-driven-marketing-campaigns-using-adobe-experience-platforms-unified-profile-in-adobe-campaign-9d9a97e183c4
  <p>
 
