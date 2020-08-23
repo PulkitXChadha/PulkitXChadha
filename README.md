@@ -1,7 +1,12 @@
-## Hi there!! <img src="https://github.com/PulkitXChadha/PulkitXChadha/blob/master/wave.gif" width="30px">
+## Hi There!! <img src="https://github.com/PulkitXChadha/PulkitXChadha/blob/master/wave.gif" width="30px">
 
 
-My name is Pulkit Chadha I'm a Sr Soultions Consultant and Multi Solution Architect working at Adobe. You can find me on LinkedIn [![LinkedIn][3.2]][3].
+My name is Pulkit Chadha I'm a Sr Soultions Consultant and Multi Solution Architect working at Adobe. 
+
+## Connect with me on these platforms
+
+<a href="https://www.linkedin.com/in/pulkitchadha//"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/pulkitchadha"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>
+  
 
 ## Featured Blogs I have Authored
 
