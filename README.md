@@ -1,6 +1,6 @@
 ## Hi There!! <img src="https://github.com/PulkitXChadha/PulkitXChadha/blob/master/wave.gif" width="30px">
 
-My name is Pulkit Chadha I'm a Sr Solutions has Consultant and Multi Solution Architect working at Adobe. 
+My name is Pulkit Chadha I'm a Sr Solutions Consultant and Multi Solution Architect working at Adobe. 
 
 ## Connect with me on these platforms
 
