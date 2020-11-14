@@ -68,9 +68,7 @@ My name is Pulkit Chadha I'm a Sr Solutions Consultant and Multi Solution Archit
 [2]: https://github.com/PulkitXChadha
 [3]: https://www.linkedin.com/in/pulkitchadha/
 
-
-![Profile views](https://gpvc.Arturo.dev/PulkitXChadha?v=3)
-
+![Profile views](https://gpvc.arturio.dev/PulkitXChadha)
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
