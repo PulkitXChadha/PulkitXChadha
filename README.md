@@ -1,4 +1,4 @@
-## Hi There!! <img src="https://github.com/PulkitXChadha/PulkitXChadha/blob/master/wave.gif" width="30px">
+## Hello!! <img src="https://github.com/PulkitXChadha/PulkitXChadha/blob/master/wave.gif" width="30px">
 
 My name is Pulkit Chadha I'm a Sr. Solutions Consultant and Multi Solution Architect working at Adobe. 
 
