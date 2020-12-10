@@ -26,6 +26,11 @@ My name is Pulkit Chadha I'm a Sr. Solutions Consultant and Multi Solution Archi
  ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#6](https://github.com/adobe/aio-apps-action/issues/6) in [adobe/aio-apps-action](https://github.com/adobe/aio-apps-action)
+2. 🎉 Merged PR [#2](https://github.com/PulkitXChadha/AEP-batch-linking-report/pull/2) in [PulkitXChadha/AEP-batch-linking-report](https://github.com/PulkitXChadha/AEP-batch-linking-report)
+3. 💪 Opened PR [#2](https://github.com/PulkitXChadha/AEP-batch-linking-report/pull/2) in [PulkitXChadha/AEP-batch-linking-report](https://github.com/PulkitXChadha/AEP-batch-linking-report)
+4. 🎉 Merged PR [#1](https://github.com/PulkitXChadha/AEP-batch-linking-report/pull/1) in [PulkitXChadha/AEP-batch-linking-report](https://github.com/PulkitXChadha/AEP-batch-linking-report)
+5. 💪 Opened PR [#1](https://github.com/PulkitXChadha/AEP-batch-linking-report/pull/1) in [PulkitXChadha/AEP-batch-linking-report](https://github.com/PulkitXChadha/AEP-batch-linking-report)
 <!--END_SECTION:activity-->
  
  <p>&nbsp;</p>
