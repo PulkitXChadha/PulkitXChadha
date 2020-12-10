@@ -22,6 +22,14 @@ My name is Pulkit Chadha I'm a Sr. Solutions Consultant and Multi Solution Archi
 
  <p>&nbsp;</p>
  
+ 
+ ## :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+ 
+ <p>&nbsp;</p>
+ 
  ## I'm listening to
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ubfva4m7s21he94xjr16b05ym&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
