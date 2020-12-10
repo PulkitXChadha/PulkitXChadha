@@ -7,8 +7,6 @@ My name is Pulkit Chadha I'm a Sr. Solutions Consultant and Multi Solution Archi
 <a href="https://www.linkedin.com/in/pulkitchadha//"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/pulkitchadha"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>
 <p>&nbsp;</p>
 
-## I'm listening to
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ubfva4m7s21he94xjr16b05ym&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 ## Featured Blogs I have Authored
 
@@ -24,6 +22,10 @@ My name is Pulkit Chadha I'm a Sr. Solutions Consultant and Multi Solution Archi
 
  <p>&nbsp;</p>
  
+ ## I'm listening to
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ubfva4m7s21he94xjr16b05ym&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/PulkitXChadha/PulkitXChadha">
