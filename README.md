@@ -26,11 +26,11 @@ My name is Pulkit Chadha I'm a Sr. Solutions Consultant and Multi Solution Archi
  ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer/issues/4) in [PulkitXChadha/aep-offer-decisioning-previewer](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer)
-2. 🎉 Merged PR [#6](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer/pull/6) in [PulkitXChadha/aep-offer-decisioning-previewer](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer)
-3. ❗️ Closed issue [#4](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer/issues/4) in [PulkitXChadha/aep-offer-decisioning-previewer](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer)
-4. 💪 Opened PR [#6](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer/pull/6) in [PulkitXChadha/aep-offer-decisioning-previewer](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer)
-5. 🎉 Merged PR [#5](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer/pull/5) in [PulkitXChadha/aep-offer-decisioning-previewer](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer)
+1. 💪 Opened PR [#12](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer/pull/12) in [PulkitXChadha/aep-offer-decisioning-previewer](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer)
+2. ❌ Closed PR [#8](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer/pull/8) in [PulkitXChadha/aep-offer-decisioning-previewer](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer)
+3. 🗣 Commented on [#8](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer/issues/8) in [PulkitXChadha/aep-offer-decisioning-previewer](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer)
+4. ❌ Closed PR [#7](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer/pull/7) in [PulkitXChadha/aep-offer-decisioning-previewer](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer)
+5. 🗣 Commented on [#7](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer/issues/7) in [PulkitXChadha/aep-offer-decisioning-previewer](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer)
 <!--END_SECTION:activity-->
  
  <p>&nbsp;</p>
