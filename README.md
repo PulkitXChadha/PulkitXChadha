@@ -41,26 +41,25 @@ My name is Pulkit Chadha I'm a Sr. Solutions Consultant and Multi Solution Archi
 <a href="https://github.com/PulkitXChadha/PulkitXChadha">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+
 <a href="https://github.com/PulkitXChadha/PulkitXChadha">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PulkitXChadha&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Pulkits's GitHub Stats" />
 </a>
 
+<a href="https://github.com/PulkitXChadha/aep-offer-decisioning-previewer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PulkitXChadha&repo=aep-offer-decisioning-previewer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/PulkitXChadha/aio-lib-segmentation-service">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PulkitXChadha&repo=aio-lib-segmentation-service&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/PulkitXChadha/AEP-batch-linking-report">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PulkitXChadha&repo=AEP-batch-linking-report&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 <a href="https://github.com/PulkitXChadha/acc4jo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PulkitXChadha&repo=acc4jo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/PulkitXChadha/serverless-stack-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PulkitXChadha&repo=serverless-stack-api&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/PulkitXChadha/serverless-stack-client">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PulkitXChadha&repo=serverless-stack-client&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/PulkitXChadha/basic-burger-builder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PulkitXChadha&repo=basic-burger-builder&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
