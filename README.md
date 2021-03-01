@@ -26,11 +26,11 @@ My name is Pulkit Chadha I'm a Principal Solutions Consultant and Multi Solution
  ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer/pull/18) in [PulkitXChadha/aep-offer-decisioning-previewer](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer)
-2. 🎉 Merged PR [#15](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer/pull/15) in [PulkitXChadha/aep-offer-decisioning-previewer](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer)
-3. 💪 Opened PR [#15](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer/pull/15) in [PulkitXChadha/aep-offer-decisioning-previewer](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer)
-4. 🎉 Merged PR [#14](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer/pull/14) in [PulkitXChadha/aep-offer-decisioning-previewer](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer)
-5. 💪 Opened PR [#14](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer/pull/14) in [PulkitXChadha/aep-offer-decisioning-previewer](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer)
+1. 💪 Opened PR [#35](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer/pull/35) in [PulkitXChadha/aep-offer-decisioning-previewer](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer)
+2. 🎉 Merged PR [#18](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer/pull/18) in [PulkitXChadha/aep-offer-decisioning-previewer](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer)
+3. 🎉 Merged PR [#15](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer/pull/15) in [PulkitXChadha/aep-offer-decisioning-previewer](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer)
+4. 💪 Opened PR [#15](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer/pull/15) in [PulkitXChadha/aep-offer-decisioning-previewer](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer)
+5. 🎉 Merged PR [#14](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer/pull/14) in [PulkitXChadha/aep-offer-decisioning-previewer](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer)
 <!--END_SECTION:activity-->
  
  <p>&nbsp;</p>
