@@ -26,11 +26,11 @@ My name is Pulkit Chadha I'm a Principal Solutions Consultant and Multi Solution
  ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer/pull/35) in [PulkitXChadha/aep-offer-decisioning-previewer](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer)
-2. 💪 Opened PR [#35](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer/pull/35) in [PulkitXChadha/aep-offer-decisioning-previewer](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer)
-3. 🎉 Merged PR [#18](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer/pull/18) in [PulkitXChadha/aep-offer-decisioning-previewer](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer)
-4. 🎉 Merged PR [#15](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer/pull/15) in [PulkitXChadha/aep-offer-decisioning-previewer](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer)
-5. 💪 Opened PR [#15](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer/pull/15) in [PulkitXChadha/aep-offer-decisioning-previewer](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer)
+1. 💪 Opened PR [#2](https://github.com/PulkitXChadha/aep-profile-editor/pull/2) in [PulkitXChadha/aep-profile-editor](https://github.com/PulkitXChadha/aep-profile-editor)
+2. ❌ Closed PR [#1](https://github.com/PulkitXChadha/aep-profile-editor/pull/1) in [PulkitXChadha/aep-profile-editor](https://github.com/PulkitXChadha/aep-profile-editor)
+3. 💪 Opened PR [#1](https://github.com/PulkitXChadha/aep-profile-editor/pull/1) in [PulkitXChadha/aep-profile-editor](https://github.com/PulkitXChadha/aep-profile-editor)
+4. 🎉 Merged PR [#35](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer/pull/35) in [PulkitXChadha/aep-offer-decisioning-previewer](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer)
+5. 💪 Opened PR [#35](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer/pull/35) in [PulkitXChadha/aep-offer-decisioning-previewer](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer)
 <!--END_SECTION:activity-->
  
  <p>&nbsp;</p>
