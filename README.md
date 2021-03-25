@@ -26,11 +26,11 @@ My name is Pulkit Chadha I'm a Principal Solutions Consultant and Multi Solution
  ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/PulkitXChadha/aep-profile-editor/pull/6) in [PulkitXChadha/aep-profile-editor](https://github.com/PulkitXChadha/aep-profile-editor)
-2. 💪 Opened PR [#6](https://github.com/PulkitXChadha/aep-profile-editor/pull/6) in [PulkitXChadha/aep-profile-editor](https://github.com/PulkitXChadha/aep-profile-editor)
-3. 🎉 Merged PR [#5](https://github.com/PulkitXChadha/aep-profile-editor/pull/5) in [PulkitXChadha/aep-profile-editor](https://github.com/PulkitXChadha/aep-profile-editor)
-4. 💪 Opened PR [#5](https://github.com/PulkitXChadha/aep-profile-editor/pull/5) in [PulkitXChadha/aep-profile-editor](https://github.com/PulkitXChadha/aep-profile-editor)
-5. 🎉 Merged PR [#4](https://github.com/PulkitXChadha/aep-profile-editor/pull/4) in [PulkitXChadha/aep-profile-editor](https://github.com/PulkitXChadha/aep-profile-editor)
+1. ❗️ Opened issue [#7](https://github.com/PulkitXChadha/aep-profile-editor/issues/7) in [PulkitXChadha/aep-profile-editor](https://github.com/PulkitXChadha/aep-profile-editor)
+2. 🎉 Merged PR [#6](https://github.com/PulkitXChadha/aep-profile-editor/pull/6) in [PulkitXChadha/aep-profile-editor](https://github.com/PulkitXChadha/aep-profile-editor)
+3. 💪 Opened PR [#6](https://github.com/PulkitXChadha/aep-profile-editor/pull/6) in [PulkitXChadha/aep-profile-editor](https://github.com/PulkitXChadha/aep-profile-editor)
+4. 🎉 Merged PR [#5](https://github.com/PulkitXChadha/aep-profile-editor/pull/5) in [PulkitXChadha/aep-profile-editor](https://github.com/PulkitXChadha/aep-profile-editor)
+5. 💪 Opened PR [#5](https://github.com/PulkitXChadha/aep-profile-editor/pull/5) in [PulkitXChadha/aep-profile-editor](https://github.com/PulkitXChadha/aep-profile-editor)
 <!--END_SECTION:activity-->
  
  <p>&nbsp;</p>
