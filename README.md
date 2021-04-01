@@ -50,6 +50,14 @@ My name is Pulkit Chadha I'm a Principal Solutions Consultant and Multi Solution
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PulkitXChadha&repo=aep-offer-decisioning-previewer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+<a href="https://github.com/PulkitXChadha/aio-runtime-logs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PulkitXChadha&repo=aio-runtime-logs&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/PulkitXChadha/aep-profile-editor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PulkitXChadha&repo=aep-profile-editor&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 <a href="https://github.com/PulkitXChadha/aio-lib-segmentation-service">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PulkitXChadha&repo=aio-lib-segmentation-service&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
