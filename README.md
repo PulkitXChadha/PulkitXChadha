@@ -26,11 +26,11 @@ My name is Pulkit Chadha I'm a Principal Solutions Consultant and Multi Solution
  ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/PulkitXChadha/aep-profile-editor/pull/12) in [PulkitXChadha/aep-profile-editor](https://github.com/PulkitXChadha/aep-profile-editor)
-2. 🎉 Merged PR [#79](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer/pull/79) in [PulkitXChadha/aep-offer-decisioning-previewer](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer)
-3. 💪 Opened PR [#79](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer/pull/79) in [PulkitXChadha/aep-offer-decisioning-previewer](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer)
-4. 🗣 Commented on [#256](https://github.com/adobe/aio-cli/issues/256) in [adobe/aio-cli](https://github.com/adobe/aio-cli)
-5. ❗️ Closed issue [#10](https://github.com/PulkitXChadha/aep-profile-editor/issues/10) in [PulkitXChadha/aep-profile-editor](https://github.com/PulkitXChadha/aep-profile-editor)
+1. 🎉 Merged PR [#12](https://github.com/PulkitXChadha/aep-profile-editor/pull/12) in [PulkitXChadha/aep-profile-editor](https://github.com/PulkitXChadha/aep-profile-editor)
+2. 💪 Opened PR [#12](https://github.com/PulkitXChadha/aep-profile-editor/pull/12) in [PulkitXChadha/aep-profile-editor](https://github.com/PulkitXChadha/aep-profile-editor)
+3. 🎉 Merged PR [#79](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer/pull/79) in [PulkitXChadha/aep-offer-decisioning-previewer](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer)
+4. 💪 Opened PR [#79](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer/pull/79) in [PulkitXChadha/aep-offer-decisioning-previewer](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer)
+5. 🗣 Commented on [#256](https://github.com/adobe/aio-cli/issues/256) in [adobe/aio-cli](https://github.com/adobe/aio-cli)
 <!--END_SECTION:activity-->
  
  <p>&nbsp;</p>
