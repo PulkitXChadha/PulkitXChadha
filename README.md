@@ -26,11 +26,11 @@ My name is Pulkit Chadha I'm a Principal Solutions Consultant and Multi Solution
  ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/PulkitXChadha/aep-pii-purge/pull/6) in [PulkitXChadha/aep-pii-purge](https://github.com/PulkitXChadha/aep-pii-purge)
-2. 🗣 Commented on [#362](https://github.com/mac-s-g/react-json-view/issues/362) in [mac-s-g/react-json-view](https://github.com/mac-s-g/react-json-view)
-3. 🎉 Merged PR [#12](https://github.com/PulkitXChadha/aep-profile-editor/pull/12) in [PulkitXChadha/aep-profile-editor](https://github.com/PulkitXChadha/aep-profile-editor)
-4. 💪 Opened PR [#12](https://github.com/PulkitXChadha/aep-profile-editor/pull/12) in [PulkitXChadha/aep-profile-editor](https://github.com/PulkitXChadha/aep-profile-editor)
-5. 🎉 Merged PR [#79](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer/pull/79) in [PulkitXChadha/aep-offer-decisioning-previewer](https://github.com/PulkitXChadha/aep-offer-decisioning-previewer)
+1. 🎉 Merged PR [#6](https://github.com/PulkitXChadha/aep-pii-purge/pull/6) in [PulkitXChadha/aep-pii-purge](https://github.com/PulkitXChadha/aep-pii-purge)
+2. 💪 Opened PR [#6](https://github.com/PulkitXChadha/aep-pii-purge/pull/6) in [PulkitXChadha/aep-pii-purge](https://github.com/PulkitXChadha/aep-pii-purge)
+3. 🗣 Commented on [#362](https://github.com/mac-s-g/react-json-view/issues/362) in [mac-s-g/react-json-view](https://github.com/mac-s-g/react-json-view)
+4. 🎉 Merged PR [#12](https://github.com/PulkitXChadha/aep-profile-editor/pull/12) in [PulkitXChadha/aep-profile-editor](https://github.com/PulkitXChadha/aep-profile-editor)
+5. 💪 Opened PR [#12](https://github.com/PulkitXChadha/aep-profile-editor/pull/12) in [PulkitXChadha/aep-profile-editor](https://github.com/PulkitXChadha/aep-profile-editor)
 <!--END_SECTION:activity-->
  
  <p>&nbsp;</p>
